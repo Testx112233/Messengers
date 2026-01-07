@@ -16,12 +16,12 @@
 ---
 
 ## 🛠️ التقنيات المستخدمة
-- **HTML5**
-- **CSS3**
+- **HTML**
+- **CSS**
   - Flexbox
   - CSS Variables
   - Media Queries
-- **JavaScript (Vanilla JS)**
+- **JavaScript**
 
 ---
 
